@@ -1,0 +1,1 @@
+phpWalter [phpwalter@torres.ws] - added PDF string merge method
